@@ -16,6 +16,6 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\BlazorContextMenu\BlazorContextMenu.csproj" />
+    <ProjectReference Include="..\..\BlazorContextMenu\BlazorContextMenu.csproj" />
   </ItemGroup>
 </Project>
